@@ -27,6 +27,8 @@ An AI-based system that generates textual descriptions for images using computer
 
 ## Setup and Usage
 
-### Clone the repository:
+### Clone the repository  :
 ```bash
 git clone https://github.com/your-username/image-captioning-system.git
+
+
